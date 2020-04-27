@@ -9,13 +9,13 @@ class BunnyBot:
   exit_commands = ("quit", "pause", "exit", "goodbye", "bye", "later")
   # random starter questions
   random_questions = (
-        "Why are you here? ",
+        "Hows your day going Mummie Bunny? ",
         "Are there many humans like you? ",
-        "What do you consume for sustenance? ",
-        "Is there intelligent life on this planet? ",
-        "Does Earth have a leader? ",
-        "What planets have you visited? ",
-        "What technology do you have on this planet? "
+        "What do you consume for sustenance. Carrots? ",
+        "Is there intelligent life on this planet? Or are you all there is? ",
+        "Does humans have a leader? is it Nic or Nat?  ",
+        "What other bunnies have you visited? ",
+        "What carrots do you have on today? "
     )
 
   def __init__(self):
